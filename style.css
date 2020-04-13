@@ -1,0 +1,54 @@
+h1 {
+    color:#3560d6;
+    margin:1px;
+    padding: 1px;
+    border-width: 100;
+   
+}
+
+.header{
+    background-color :green ;
+    padding: 1px;
+    border: solid;
+  
+}
+.header1{
+    background-color:#9e29d1;
+   text-shadow:#ededed;
+   
+
+}
+.grid{
+ 
+   
+   border:groove;
+    justify-content: left;
+}
+
+
+p,h2{
+    text-align:left ; 
+color:#933232;
+}
+
+
+
+a:link{
+color:#ecef28}
+a:visited{
+    color:#26d382;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
